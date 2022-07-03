@@ -18,4 +18,8 @@ h4{
 body{
     background-color: rgb(63, 175, 138);
 }
+.name{
+    color: rgb(4, 62, 43);
+    background-color: aliceblue;
+}
 
