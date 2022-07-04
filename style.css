@@ -1,7 +1,9 @@
 h1{
     text-align: center;
     background-color: orange;
-
+    font-family: 'Lobster', cursive;
+    font-family: 'Splash', cursive;
+    font-family: 'The Nautigal', cursive;
 }
 h3{
     text-align: center;
@@ -21,7 +23,39 @@ body{
 }
 .name{
     color: rgb(4, 62, 43);
-    background-color: rgb(251, 251, 252);
+    background-color: antiquewhite;
     font-family: 'The Nautigal', cursive;
+}
+img{
+    width: 1500px;
+    height: 600px;
+}
+#home{
+    background-color: rgb(130, 162, 164);
+}
+#login{
+    color: brown;
+    background-color: rgb(133, 205, 181);
+}
+#allcourses{
+    background-color: rgb(130, 162, 164);
+}
+#aboutus{
+    background-color: rgb(130, 162, 164);
+}
+#contact{
+    background-color: rgb(130, 162, 164);
+}
+#gallery{
+    background-color: rgb(130, 162, 164);
+}
+#webinars{
+    background-color: rgb(130, 162, 164);
+}
+
+
+
+.jumbotron{
+    background-color: antiquewhite;
 }
 
