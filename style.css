@@ -1,6 +1,7 @@
 h1{
     text-align: center;
     background-color: orange;
+
 }
 h3{
     text-align: center;
@@ -20,6 +21,7 @@ body{
 }
 .name{
     color: rgb(4, 62, 43);
-    background-color: aliceblue;
+    background-color: rgb(251, 251, 252);
+    font-family: 'The Nautigal', cursive;
 }
 
